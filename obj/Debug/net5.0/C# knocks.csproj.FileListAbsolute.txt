@@ -1,0 +1,15 @@
+/Users/hashiguchitoshimasa/Desktop/C# knocks/bin/Debug/net5.0/C# knocks.deps.json
+/Users/hashiguchitoshimasa/Desktop/C# knocks/bin/Debug/net5.0/C# knocks.runtimeconfig.json
+/Users/hashiguchitoshimasa/Desktop/C# knocks/bin/Debug/net5.0/C# knocks.runtimeconfig.dev.json
+/Users/hashiguchitoshimasa/Desktop/C# knocks/bin/Debug/net5.0/C# knocks.dll
+/Users/hashiguchitoshimasa/Desktop/C# knocks/bin/Debug/net5.0/ref/C# knocks.dll
+/Users/hashiguchitoshimasa/Desktop/C# knocks/bin/Debug/net5.0/C# knocks.pdb
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/C# knocks.csproj.AssemblyReference.cache
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/C# knocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/C# knocks.AssemblyInfoInputs.cache
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/C# knocks.AssemblyInfo.cs
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/C# knocks.csproj.CoreCompileInputs.cache
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/C# knocks.dll
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/ref/C# knocks.dll
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/C# knocks.pdb
+/Users/hashiguchitoshimasa/Desktop/C# knocks/obj/Debug/net5.0/C# knocks.genruntimeconfig.cache
